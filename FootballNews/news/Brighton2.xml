@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewListInformation>
+    <ClubName>Brighton</ClubName>
+    <ClubWebsiteURL>Still www.brighton.com</ClubWebsiteURL>
+    <NewsletterNewsItems>
+        <NewsletterNewsItem>
+            <ArticleURL>www.brighton.com4</ArticleURL>
+            <NewsArticleID>4</NewsArticleID>
+            <PublishDate>2020-07-05T11:34:56.573263500</PublishDate>
+            <Taxonomies>love this band4</Taxonomies>
+            <TeaserText>snape dies4</TeaserText>
+            <ThumbnailImageURL>www.image.com4</ThumbnailImageURL>
+            <Title>brighton wins?4</Title>
+            <OptaMatchId>1234</OptaMatchId>
+        </NewsletterNewsItem>
+        <NewsletterNewsItem>
+            <ArticleURL>www.brighton.com5</ArticleURL>
+            <NewsArticleID>5</NewsArticleID>
+            <PublishDate>2020-07-05T11:34:56.575263100</PublishDate>
+            <Taxonomies>love this band5</Taxonomies>
+            <TeaserText>snape dies5</TeaserText>
+            <ThumbnailImageURL>www.image.com5</ThumbnailImageURL>
+            <Title>brighton wins?5</Title>
+            <OptaMatchId>1234</OptaMatchId>
+        </NewsletterNewsItem>
+        <NewsletterNewsItem>
+            <ArticleURL>www.brighton.com3</ArticleURL>
+            <NewsArticleID>3</NewsArticleID>
+            <PublishDate>2020-07-05T11:34:56.575263100</PublishDate>
+            <Taxonomies>love this band3</Taxonomies>
+            <TeaserText>snape dies3</TeaserText>
+            <ThumbnailImageURL>www.image.com3</ThumbnailImageURL>
+            <Title>brighton loses</Title>
+            <OptaMatchId>1234</OptaMatchId>
+        </NewsletterNewsItem>
+    </NewsletterNewsItems>
+</NewListInformation>
